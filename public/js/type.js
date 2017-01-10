@@ -798,5 +798,73 @@ Typing.datas = [
         question:"オリズィナァルアプリィを作る？",
         kana: "オリズィナァルアプリィヲツクル？",
         comment: "セタ"
+    },{
+        question:"自分のゲームを作る！",
+        kana: "ジブンノゲームヲツクル！",
+        comment: "やまむー"
+    },{
+        question:"勉強をもっとがんばる",
+        kana: "ベンキョウヲモットガンバル",
+        comment: "もね"
+    },{
+        question:"成績を中位ぐらいにあげたい",
+        kana: "セイセキヲチュウイグライニアゲタイ",
+        comment: "こじ"
+    },{
+        question:"電車の運転ゲームを作る",
+        kana: "デンシャノウンテンゲームヲツクル",
+        comment: "たっちゃん"
+    },{
+        question:"マラソン大会をちゃんとやる",
+        kana: "マラソンタイカイヲチャントヤル",
+        comment: "アペシ"
+    },{
+        question:"大学生活を楽しむ",
+        kana: "ダイガクセイカツヲタノシム",
+        comment: "しおみ"
+    },{
+        question:"今年は外出する",
+        kana: "コトシハガイシュツスル",
+        comment: "えり"
+    },{
+        question:"厄年に打ち勝つ",
+        kana: "ヤクドシニウチカツ",
+        comment: "さかもちょ"
+    },{
+        question:"ぎゃんばる！！",
+        kana: "ギャンバル！！",
+        comment: "なみ"
+    },{
+        question:"平均",
+        kana: "ヘイキン",
+        comment: "じょえ"
+    },{
+        question:"STARWARSを愛する！",
+        kana: "STARWARSを愛する！",
+        comment: "総統閣下"
+    },{
+        question:"成績100%",
+        kana: "セイセキヒャクパーセント",
+        comment: "めぐな"
+    },{
+        question:"Webを極める！",
+        kana: "Webヲキワメル！",
+        comment: "ぴょん"
+    },{
+        question:"レスポンシブデザインのサイトをマスターする",
+        kana: "レスポンシブデザインノサイトヲマスタースル",
+        comment: "たいてぃ"
+    },{
+        question:"２つのサイトを作る（カメラと学校のやつ）",
+        kana: "フタツノサイトヲツクル",
+        comment: "みなたん"
+    },{
+        question:"最初からサイトを自力で作るようにする！",
+        kana: "サイショカラサイトヲジリキデツクレルヨウニスル！",
+        comment: "さらさ"
+    },{
+        question:"たてよこのレイアウトを使ったかき氷のサイトをつくる",
+        kana: "タテヨコノレイアウトヲツカッタカキゴオリノサイトヲツクル",
+        comment: "めい"
     }
 ];
