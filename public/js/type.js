@@ -840,7 +840,7 @@ Typing.datas = [
         comment: "じょえ"
     },{
         question:"STARWARSを愛する！",
-        kana: "STARWARSを愛する！",
+        kana: "スターウォーズヲアイスル",
         comment: "総統閣下"
     },{
         question:"成績100%",
@@ -848,7 +848,7 @@ Typing.datas = [
         comment: "めぐな"
     },{
         question:"Webを極める！",
-        kana: "Webヲキワメル！",
+        kana: "ウェブヲキワメル！",
         comment: "ぴょん"
     },{
         question:"レスポンシブデザインのサイトをマスターする",
