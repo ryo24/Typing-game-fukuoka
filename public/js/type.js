@@ -866,5 +866,53 @@ Typing.datas = [
         question:"たてよこのレイアウトを使ったかき氷のサイトをつくる",
         kana: "タテヨコノレイアウトヲツカッタカキゴオリノサイトヲツクル",
         comment: "めい"
+    },{
+        question:"アプリリリース",
+        kana: "アプリリリース",
+        comment: "たなはや"
+    },{
+        question:"ThirdEverNote完成&リリース",
+        kana: "サードエバーノートカンセイ＆リリース",
+        comment: "まっか"
+    },{
+        question:"姿勢を良くする",
+        kana: "シセイヲヨクスル",
+        comment: "ゆい"
+    },{
+        question:"ちこくしない、ねない（スクール前）、リリース",
+        kana: "チコクシナイ、ネナイ、リリース",
+        comment: "ちーちゃん"
+    },{
+        question:"太る",
+        kana: "フトル",
+        comment: "しのきん"
+    },{
+        question:"やせない",
+        kana: "ヤセナイ",
+        comment: "いのっち"
+    },{
+        question:"何事にも集中！！",
+        kana: "ナニゴトニモシュウシュウ",
+        comment: "ノヴァ"
+    },{
+        question:"だらだらしない！",
+        kana: "ダラダラシナイ！",
+        comment: "ドラピー"
+    },{
+        question:"時間を守る！",
+        kana: "ジカンヲマモル！",
+        comment: "まっつー"
+    },{
+        question:"おくれない！",
+        kana: "オクレナイ！",
+        comment: "リオ"
+    },{
+        question:"３月までに教科書を終わらせる",
+        kana: "３ガツマデニキョウカショヲオワラセル",
+        comment: "ひで"
+    },{
+        question:"室の高いアプリの開発＆リリース",
+        kana: "シツノタカイアプリノカイハツ＆リリース",
+        comment: "まさし"
     }
 ];
