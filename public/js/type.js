@@ -763,156 +763,40 @@ Typing.charTable = {
 
 Typing.datas = [
 	{
-		question : "Life is Tech ! School",
-		kana : "ライフイズテックスクール",
+		question : "Life is Tech ! Schoolを楽しもう！",
+		kana : "LIFEISTECH！SCHOOLヲタノシモウ！",
 		comment : "りょう"
 	},{
-        question:"とにかくいろんなコードを使ってみる",
-        kana: "トニカクイロンナコードヲツカッテミル",
-        comment: "りっきー"
+        question:"とりあえずがんばる",
+        kana: "トリアエズガンバル",
+        comment: "せれん"
     },{
-        question:"プログラミングの基本的なことを覚えて、自分でアプリを作れるようにしたい！",
-        kana: "プログラミングノキホンテキナコトヲオボエテ、ジブンデアプリヲツクレルヨウニシタイ！",
-        comment: "ゆーじろー"
+        question:"忍耐",
+        kana: "ニンタイ",
+        comment: "セーヤ"
     },{
-        question:"オリジナルアプリを作る！",
-        kana: "オリジナルアプリヲツクル！",
-        comment: "じゅり"
+        question:"Mayaでモデリング、アニメーションの勉強に精を出す",
+        kana: "ＭＡＹＡデモデリング、アニメーションノベンキョウニセイヲダス",
+        comment: "ゆうき"
     },{
-        question:"Swiftの文法を完璧に理解し、オリジナルアプリを作る！",
-        kana: "スウィフトノブンポウヲカンペキニリカイシ、オリジナルアプリヲツクル！",
-        comment: "みさ"
+        question:"自分で作りたい物をつくれるようにスクリプトなどをおぼえる。",
+        kana: "ジブンデツクリタモノヲツクレルヨウニスクリプトナドヲオボエル。",
+        comment: "リュウ"
     },{
-        question:"オリズィナァルアプリィをつくるよ（？）",
-        kana: "オリズィナァルアプリィヲツクルヨ（？）",
-        comment: "はづき"
+        question:"スクールが無い日もMacにふれる",
+        kana: "スクールガナイヒモＭＡＣニフレル",
+        comment: "リリー"
     },{
-        question:"オリズィナァルアプリィを作りたい！！！！！！",
-        kana: "オリズィナァルアプリィヲツクリタイ！！！！！！",
-        comment: "けんじ"
+        question:"今作っているアプリをリリースする",
+        kana: "イマツクッテイルアプリヲリリーススル",
+        comment: "ゴー"
     },{
-        question:"オリズィナァルアプリィを作ろう",
-        kana: "オリズィナァルアプリィヲツクロウ",
-        comment: "さば"
+        question:"家でMacをつかって開発をする",
+        kana: "イエデＭＡＣヲツカッテカイハツヲスル",
+        comment: "たいせい"
     },{
-        question:"オリズィナァルアプリィを作る？",
-        kana: "オリズィナァルアプリィヲツクル？",
-        comment: "セタ"
-    },{
-        question:"自分のゲームを作る！",
-        kana: "ジブンノゲームヲツクル！",
-        comment: "やまむー"
-    },{
-        question:"勉強をもっとがんばる",
-        kana: "ベンキョウヲモットガンバル",
-        comment: "もね"
-    },{
-        question:"成績を中位ぐらいにあげたい",
-        kana: "セイセキヲチュウイグライニアゲタイ",
-        comment: "こじ"
-    },{
-        question:"電車の運転ゲームを作る",
-        kana: "デンシャノウンテンゲームヲツクル",
-        comment: "たっちゃん"
-    },{
-        question:"マラソン大会をちゃんとやる",
-        kana: "マラソンタイカイヲチャントヤル",
-        comment: "アペシ"
-    },{
-        question:"大学生活を楽しむ",
-        kana: "ダイガクセイカツヲタノシム",
-        comment: "しおみ"
-    },{
-        question:"今年は外出する",
-        kana: "コトシハガイシュツスル",
-        comment: "えり"
-    },{
-        question:"厄年に打ち勝つ",
-        kana: "ヤクドシニウチカツ",
-        comment: "さかもちょ"
-    },{
-        question:"ぎゃんばる！！",
-        kana: "ギャンバル！！",
-        comment: "なみ"
-    },{
-        question:"平均",
-        kana: "ヘイキン",
-        comment: "じょえ"
-    },{
-        question:"STARWARSを愛する！",
-        kana: "スターウォーズヲアイスル",
-        comment: "総統閣下"
-    },{
-        question:"成績100%",
-        kana: "セイセキヒャクパーセント",
-        comment: "めぐな"
-    },{
-        question:"Webを極める！",
-        kana: "ウェブヲキワメル！",
-        comment: "ぴょん"
-    },{
-        question:"レスポンシブデザインのサイトをマスターする",
-        kana: "レスポンシブデザインノサイトヲマスタースル",
-        comment: "たいてぃ"
-    },{
-        question:"２つのサイトを作る（カメラと学校のやつ）",
-        kana: "フタツノサイトヲツクル",
-        comment: "みなたん"
-    },{
-        question:"最初からサイトを自力で作るようにする！",
-        kana: "サイショカラサイトヲジリキデツクレルヨウニスル！",
-        comment: "さらさ"
-    },{
-        question:"たてよこのレイアウトを使ったかき氷のサイトをつくる",
-        kana: "タテヨコノレイアウトヲツカッタカキゴオリノサイトヲツクル",
-        comment: "めい"
-    },{
-        question:"アプリリリース",
-        kana: "アプリリリース",
-        comment: "たなはや"
-    },{
-        question:"ThirdEverNote完成&リリース",
-        kana: "サードエバーノートカンセイ＆リリース",
-        comment: "まっか"
-    },{
-        question:"姿勢を良くする",
-        kana: "シセイヲヨクスル",
-        comment: "ゆい"
-    },{
-        question:"ちこくしない、ねない（スクール前）、リリース",
-        kana: "チコクシナイ、ネナイ、リリース",
-        comment: "ちーちゃん"
-    },{
-        question:"太る",
-        kana: "フトル",
-        comment: "しのきん"
-    },{
-        question:"やせない",
-        kana: "ヤセナイ",
-        comment: "いのっち"
-    },{
-        question:"何事にも集中！！",
-        kana: "ナニゴトニモシュウシュウ",
-        comment: "ノヴァ"
-    },{
-        question:"だらだらしない！",
-        kana: "ダラダラシナイ！",
-        comment: "ドラピー"
-    },{
-        question:"時間を守る！",
-        kana: "ジカンヲマモル！",
-        comment: "まっつー"
-    },{
-        question:"おくれない！",
-        kana: "オクレナイ！",
-        comment: "リオ"
-    },{
-        question:"３月までに教科書を終わらせる",
-        kana: "３ガツマデニキョウカショヲオワラセル",
-        comment: "ひで"
-    },{
-        question:"室の高いアプリの開発＆リリース",
-        kana: "シツノタカイアプリノカイハツ＆リリース",
-        comment: "まさし"
+        question:"めぐさんのラジオにハガキを出す！",
+        kana: "メグサンノラジオニハガキヲダス！",
+        comment: "リリー（個人）"
     }
 ];
