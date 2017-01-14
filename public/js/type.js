@@ -764,7 +764,7 @@ Typing.charTable = {
 Typing.datas = [
 	{
 		question : "Life is Tech ! Schoolを楽しもう！",
-		kana : "LIFEISTECH！SCHOOLヲタノシモウ！",
+		kana : "ＬＩＦＥＩＳＴＥＣＨ！ＳＣＨＯＯＬヲタノシモウ！",
 		comment : "りょう"
 	},{
         question:"とりあえずがんばる",
